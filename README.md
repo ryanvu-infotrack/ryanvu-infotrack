@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/456a613b-afd1-46d9-809e-3517f269af79)
+<img width="2000" height="667" alt="image" src="https://github.com/user-attachments/assets/8e453602-ebc5-449a-b67a-69bbc34e7ad2" />
+
 # Hi there 👋
 
 <!--
